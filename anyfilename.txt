@@ -1,0 +1,5 @@
+Dear User,
+
+This is a sample bulk email service 
+
+Thanks 
